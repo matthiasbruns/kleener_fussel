@@ -39,7 +39,8 @@ body {
   background-size: cover;
   color: #fff;
   text-align: center;
-  font-family: 'Quicksand', sans-serif;
+  /* font-family: 'Quicksand', sans-serif; */
+  font-family: 'Poppins', sans-serif;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
